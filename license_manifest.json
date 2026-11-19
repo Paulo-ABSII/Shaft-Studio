@@ -1,6 +1,6 @@
 {
-  "latest_version": "25.0.0",
-  "min_supported_version": "25.0.0",
+  "latest_version": "26.0.0",
+  "min_supported_version": "26.0.0",
   "expiration_date_utc": "2026-12-04T23:59:59Z",
   "kill_switch": false,
   "message": "License active."
